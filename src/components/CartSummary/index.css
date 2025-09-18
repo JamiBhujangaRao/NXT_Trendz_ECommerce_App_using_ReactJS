@@ -1,0 +1,34 @@
+.total-price-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.order-total {
+  font-weight: 500;
+  font-size: 23px;
+  color: #616e7c;
+  font-family: Roboto;
+  margin-bottom: 0;
+}
+span {
+  font-weight: bold;
+  font-size: 25px;
+  color: #171f46;
+  font-family: Roboto;
+}
+.items-count {
+  margin-top: 0;
+  font-size: 15px;
+  color: #616e7c;
+}
+.check-out-btn {
+  background-color: #0b69ff;
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  height: 37px;
+  width: 100%;
+  font-weight: 500;
+  cursor: pointer;
+}
